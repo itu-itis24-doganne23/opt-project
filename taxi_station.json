@@ -1,0 +1,6136 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "istanbul_taksi_duraklari",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6850561005, 41.0617807012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BAHÇEŞEHİR MİGROS TAKSİ DURAAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6913589995, 41.014897401 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇİÇEK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7093713003, 40.9813758009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AVCILAR 3 TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7145731997, 41.062559201 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AVCILAR(6) ISPARTAKULE TAKSI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7201012999, 40.9803878012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AVCILAR 1 TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7721200998, 40.990454301 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KÜÇÜKÇEKMECE MEYDAN YONCA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7818810004, 40.9829535012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BASINKÖY TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7851243998, 41.0487104007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "OLYMPİA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7903847004, 40.9722380013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FLORYA TURİZM TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7905131006, 40.9870214011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "METRO (FİKRET KARABAĞ) TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7918502999, 41.0555797011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ATAKENT 2.3 ETAP TAKSI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8005721998, 41.0479847006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KONUT TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8036680995, 40.9717398009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FLORYA FLYİNN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2360808003, 40.8754269011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - PENDİK İDO İSKELE ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2372723995, 40.8821552011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HİLAL TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2412668998, 41.0079356006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YENİDOĞAN MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2481125995, 40.9724879011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HASANPAŞA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2552624005, 40.8749276011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SSK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9448743994, 41.0604712007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "EYÜP TAŞOCAĞI TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9453132005, 41.0494236007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SÜTLÜCE KÜLTÜR TAKSI-1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9457503, 41.0698480012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - KAĞITHANE ALİBEYKÖY SİLAHTARAĞA BİLGİ ÜNİVERSİTESİ YANI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9485591994, 41.0158495007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSKENDERPAŞA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9518194001, 41.014178101 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK HORHOR - FATİH"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9566603996, 41.003495001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK YENİ KAPI İDO TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9567521997, 41.0035094007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK YENİKAPI İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9639864995, 41.0095376008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - FATİH BEYAZIT MEYDANI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9655200996, 41.0581102008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "OKMEYDANI MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9683985998, 41.0636701009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KAĞITHANE TERASEVLER TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9706519, 41.0180432009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK EMİNÖNÜ İETT DURAKLARI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9710733994, 41.0819722013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KAĞITHANE MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9734303002, 41.0065802014 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SULTANAHMET İMRAN ÖKTEM SOKAK UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9735380994, 41.0574539009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ANTHILL Y.E. TAKSİ DURAĞI (GÜL ESKİ ADI)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9741391001, 41.0176590009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "REŞADİYE CADDESİ EMİNÖNÜ İDO İSKELESİ ÖNÜ UATD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9743282001, 41.0674943009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÜRSEL MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9746614997, 41.0102892009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BABIALİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9760401995, 41.0148370007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "EMİNÖNÜ SAHİL TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9761299, 41.0148375013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - FATİH TCDD SİRKECİ GAR ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9789913995, 41.0062808006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK SULTANAHMET DALBASTI SOKAK UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9799547996, 41.036152901 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BEYOĞLU ATIF YILMAZ CAD."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9813658005, 41.0080414011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SULTANAHMET İSHAKPAŞA CADDESİ UATD TALEBİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9813902997, 41.0670648008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TÜRKİYE HASTANESİ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9815817005, 41.0068779007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YEREBATAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9818068995, 41.0258164007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GALATAPORT TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6479000002, 41.0117000004 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "S.S.BÜYÜKŞEHİR TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8854000003, 41.0121000003 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "METROPOL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0951915268, 41.1157532048 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK BARBAROS CAD TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8075260004, 41.1036650013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "VADİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.910216508, 40.9959543802 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "OLİVİUM OUTLET CENTER TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0231466002, 41.2084129012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "VADİ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0235296005, 40.9915731012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - KADIKÖY İDO İSKELESİ HALDUN TANER SAHNESİ ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0249279005, 41.0150708011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK ZEYNEP KAMİL"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8935779005, 41.006124201 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK MERTER METRO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8966180996, 41.0494638005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KOCATEPE METRO TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8973420001, 41.0434600008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FORUM İSTANBUL TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9018555, 40.994324001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YEŞİLTEPE TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9039131998, 40.9886348006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - ZEYTİNBURNU 58. BULVAR DEPO DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9039553001, 41.0407630008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ALTIN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9074395001, 41.0389503014 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BAYRAMPAŞA MERKEZ STAD TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9081738994, 41.0139594006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TERCÜMAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9100591998, 41.1606478014 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KEMERTÜRK TAKSI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9145684997, 41.0645676012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BAĞLARBAŞI TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9197843002, 41.0819653006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DURAK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9207034001, 41.0342214005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "EYÜP METRO TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9209220004, 41.0482812011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "RAMİ MEYDAN ERAY TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9263219995, 41.0788784013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HUZUR TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9263733002, 40.9954581006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KULE TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9309784003, 41.0166651008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ŞEHREMİNNİ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9317117998, 41.0590399007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "PAZARİÇİ ÇEŞMETAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9326196001, 41.0463659006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "EYÜP BULVAR TAKSİİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9379331997, 41.0094210006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FINDIKZADE TELE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2659999992, 40.8859000005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "PENDİK DEVLET HASTANESİ  TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2631000005, 40.8875999992 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MARMARA ÜNV.EĞT.VE ARAŞ.HAST YENİ2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1904999993, 40.8901000002 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KARTALTEPE MAH ATATÜRK BULVARI UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2182999998, 40.8901000006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TOPSELVİ MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2756000004, 40.8949999999 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÜLLÜBAĞLAR"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1851000001, 40.9001000005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ESENTEPE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2104999998, 40.9060999994 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KARTAL METRO DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2118000001, 40.9077 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SS.124 NOLU DÖRTYOL TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1560000004, 40.9103999999 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CEVİZLİ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1699000001, 40.9111000004 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇEBİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1380000007, 40.9122000004 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DRAGOS TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1756999992, 40.9174000002 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ADLİYE-HASTANE METRO DURAĞI-2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1708, 40.9175000007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DURU TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1566999998, 40.9238000007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK Gülsuyu Metro Durağı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1234000003, 40.9264000002 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MALTEPE SAHİL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1263, 40.9267999992 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SÜREYYA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2154000004, 40.9345999994 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÜVEN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0938999992, 40.9526000001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BOSTANCI İDO UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0951000001, 40.9536000008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BOSTANCİ MEYDAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0767999997, 40.957800001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ALO TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2156000003, 40.9619999995 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HİZMET TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1063999994, 40.9628999996 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BOSTANCI METRO DURAĞI-4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1026999999, 40.9648 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KOCAYOL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1029999997, 40.9647999997 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BOSTANCI METRO DURAĞI-1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0392346999, 41.0213154013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ALTUNİZADE ÜSKÜDAR"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0395554995, 40.9720996006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FENER YOLU CADDESİ UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0396012002, 40.9918472014 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "POYRAZ SOKAK UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0405879001, 40.9777945012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KALAMIŞ MARİNA TAKSİ DURAĞI\""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0406825, 40.9752502009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KALAMIŞ OKUL TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0410848996, 41.0844600006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÜNAYDIN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0416719005, 41.2059523006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DEMİRCİKÖY MARTI TAKSİ DURAĞI-2-"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0419447004, 41.0100415008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "VALİDEBAĞ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0431699002, 41.0358388012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - ÜSKÜDAR BEYLERBEYİ METROBÜS DURAĞI YANI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0458177999, 41.0852052013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BOĞAZİÇİ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0459519997, 41.148476501 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SARIYER KİREÇBURNU TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0479134997, 41.1034354011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BORSA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0507989995, 41.006605001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÜSKÜDAR BADEM TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0519991004, 40.9775039012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FENER YOLU TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0525050002, 41.1040412005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "EMİRGAN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0533592995, 41.0967549013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BALTA LİMANI TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0536371002, 41.194636801 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MARTI DURAĞI YONCA EVLERİ 1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0542187006, 41.049651201 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "NET TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0544628997, 41.0389554011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KÜPLÜCE TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0555189999, 40.9740405013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TEPEGÖZ SOKAK"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0556613994, 40.998901901 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK UZUNÇAYIR"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0601499004, 40.9791985008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÖZTEPE HİZMET TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0605270002, 41.1136144007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - SARIYER İSTİNYE İDO ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0638780006, 41.0221991005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇAMLICA TURİZM TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0653572997, 40.9637644006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "OPERATÖR CEMİL TOPUZLU CADDESİ UMUMA AÇIK TAKSİ DURAĞI TALEBİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0672383, 40.9750648013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TANZİMAT TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0696825006, 40.9736007014 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SANTRAL TAKSİ DURAĞI-1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0700043002, 41.0603708009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "EMRE AYDIN MESA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0702643998, 40.9963683013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SOYAK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0760702, 41.0493376012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BULVAR TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0780035005, 40.9903926006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÖZTEPE MEDİKAL PARK TELSİZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0782309004, 40.9606941014 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AS TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0785719455, 41.0017540745 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FETİH(ATAŞEHİR) TELSİZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0797255, 40.9562505013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SUADİYE MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0832324, 40.9786258006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÖZLEM TUR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0849074998, 41.0145248008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇAYIR TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0852146003, 41.0399171006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÜSKÜDAR FIRIN SK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0857663995, 40.9881074008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "OPTİMUM AVM ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0863561994, 40.9710344007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KAZASKER TAKSİ DURAĞI (ÖZEN TAKSİ)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0865959998, 41.0249690008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK SUİŞ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0892471999, 41.0312259005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇAMLICA BEREKET TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0894727998, 40.9839995014 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MEDİCAL PARK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0897113005, 41.0947378009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK BEYKOZ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0937726998, 40.9525810012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BOSTANCI İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.094311, 40.9523856012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPAK - KADIKÖY BOSTANCI İDO VE ADALAR İSKELESİ ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0945172003, 40.9544993006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "NİHAT TARLAN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1039428005, 40.9891538007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MY WORD AĞAOĞLU TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1043912005, 40.9952860013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BATI ATAŞEHİR MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1090926001, 40.9978333013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ATAŞEHİR ŞİRİN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1096371006, 40.9668675013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ATAŞEHİR GREEN PARK OTELİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1117522005, 40.9637542007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İÇERENKÖY MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1127019001, 41.0069470007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SOYAK YENİ ŞEHİR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1224455999, 40.9685910012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FINDIKLI MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1269396005, 40.9920720011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK ATAŞEHİR"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1282763006, 40.9186360006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - MALTEPE İDO İSKELESİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1338425002, 40.9252515013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MARMARA TIP FAKÜLTESİ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1528053995, 40.9894909013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ATAŞEHİR SİTE TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1700578002, 40.8990704007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ATALAR TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1750861005, 40.8906606008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "PALMİYE TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1789622003, 41.0109799006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AĞAOĞLU ELTES GÜNEŞİ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1866517004, 40.8892122009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK KARTAL HÜRRİYET CAD."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1881110999, 40.8872783006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK KARTAL İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1967102996, 40.8897102011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KARTAL ÇAVUŞOĞLU TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2140643, 40.928704001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SEKMEN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.225189, 40.918406801 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SEKMEN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2273912996, 40.9001425011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KARTAL KURFALI TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2320485004, 40.8743495012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÜLDESTE CADDESİ UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2326974006, 40.8756009008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "PENDİK BİRLİK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2330319002, 40.8718722007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - PENDİK MARİNA AVM ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2352403996, 40.8763918013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "PENDİK MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2352403999, 40.8763928009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "PENDİK DENİZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3211999995, 40.8299000001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GAR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2727999999, 40.8691000004 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "PENDİK KÖYÜ KIZILYERLER TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2747000004, 40.8706999999 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "PENDİK DİVAN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6500633006, 41.0124690009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SİTE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6522219998, 41.0161915005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ALTINYILDIZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6559332997, 41.0042157012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MİGROS TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6567215002, 41.0099024007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ADAKENT TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.67164, 40.9817055013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MARMARA LİMAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.997113585, 41.0473331987 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Teşvikiye Merkez Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9745858021, 41.0925212037 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BAŞAK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9695508963, 41.0936419574 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İdare Taksi-3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9786021071, 41.0821888447 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "NEF TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7257090633, 41.1860942893 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ARNAVUTKÖY MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6240129351, 41.1561664316 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ARNAVUTKÖY HADIMKÖY MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0055726868, 41.0695971867 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ASTORİA  TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1367242768, 40.9918063737 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ATAŞEHİR MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1774377527, 40.9860618618 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FERHATPAŞA MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1282465432, 40.9842507414 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HAS TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0974039656, 40.9794759604 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İÇERENKÖY CARREFOR AVM TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0739605012, 40.9997139678 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SOYAK SİTE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1460705153, 40.9893198347 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TRENDİST TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8344455977, 41.0342208767 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Kirazlı Merkez Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8102999995, 41.0479000005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "212 TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2470000007, 41.0479000003 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "217.SOKAK NO:1 T.ÖZAL BULVARI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0071999995, 41.0506000001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YILDIZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9817000004, 41.054400001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÜVEN TAKSİ -2-"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0226999998, 41.0546 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AİLE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0174000005, 41.0556000006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇEVİK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7607999998, 41.0560999994 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "UMUMA AÇIK"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9969000002, 41.0578000007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Fulya Mehmetçik Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0247000002, 41.060799999 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ULUS VADİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9720000006, 41.0615999996 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MİDDİLİST TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0010999999, 41.0621000008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Özbal Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0660000001, 41.0622000007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "RASATHANE TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0089999999, 41.0645000004 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ESENTEPE DEDEMAN BEŞİKTAŞ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9730000006, 41.065400001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ŞİŞLİ KAPTANPAŞA DARULACEZE YOLU"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9921000004, 41.0671999996 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Mecidiyeköy Yolu Caddesi(trump kuleleri avm önü)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9944999998, 41.0673999991 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DİLAN TAKSİ-1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8261999994, 41.0700000005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İstoç Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.2633999999, 41.0721000005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SİLİVRİ OTOGAR TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8101999998, 41.0722999998 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DEPOSİTE(AVM) TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9025000001, 41.0738999996 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KÜÇÜKKÖY ÖZ TAKSİ KOOP"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9587000005, 41.0758000002 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Nurtepe Taksi-1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8988272271, 41.0875223712 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GAZİOSMANPAŞA DEVLET HASTANESİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2896815401, 40.9245078222 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÖZEL EMSEY HASTANESİ ÖNÜ UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1247599881, 41.0274814447 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BUYAKA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.5834606488, 41.0215732574 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SAHİL TAKSİ-1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8484237559, 41.0628099614 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MAT CENTER"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8132849751, 41.0414860099 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HÜR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0521452582, 41.1372727487 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TARABYA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1033673325, 40.9809835024 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FLORA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1602832564, 40.9060535889 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CEVİZLİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9800241587, 41.071538606 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇAĞLAYAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1088583367, 40.9854787383 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KERVANCILAR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7224317966, 40.9835257526 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AVCILAR MARMARA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1558388402, 40.9106667991 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CEVİZLİ İSTASYON"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0259501088, 41.0232553929 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇİNİLİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9107737669, 41.0169775282 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK CEVİZLİBAĞ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.002661016, 41.083009665 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KUBİLAY TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0373000005, 40.9692999999 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FENER KALAMIŞ YOLU TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7311, 40.9737999999 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Denizköşkler Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8722999997, 40.9752999989 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ATABİRLİK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1524999999, 40.9754000005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Kayışdağı Caddesi Umuma Açık"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1000999998, 40.9756000002 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK KOZYATAĞI METRO-HALYOLU"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1098999993, 40.9790000007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK  KAYIŞDAĞI CAD. BAĞLARİÇİ OTOBÜS DURAĞI ALTI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0843000003, 40.984200001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SAHRA BİRLİK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2300999999, 40.9842000004 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SAMANDIRA MERKEZ TAKSI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7370999993, 40.9844 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AVCILAR GOL TAKSİİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6576000001, 40.9844000001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İHLAS İKİ KENT TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0990999999, 40.9853000006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "PALLADİUM AVM ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8778000003, 40.9853000011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BAKIRKÖY BİRLİK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0892000004, 40.9856999996 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YENİSAHRA METRO DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0861999993, 40.9865000008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BATMAN SOKAK BUHU BABA UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8921000003, 40.9869999999 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Denizatı Kent Taksi Durağı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0411999993, 40.9871999991 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ZİVERBEY TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8470999999, 40.9878999998 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Atrium Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9048999999, 40.9881999999 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DEPO TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0755000004, 40.9903999992 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÖZTEPE KAVŞAĞI(GÖZTEPE NİDA KULE KARŞISI) İŞ MERKEZİ KARŞISI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0225999999, 40.9912999997 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "RIHTIM METRO TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0246, 40.9918000008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK RIHTIM CADDESİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8815999998, 40.9922000006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "OSMANİYE TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8375999998, 40.9924999993 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK DUMLUPINAR"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8836000005, 40.9930000007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "OSMANİYE MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8345999993, 40.9931000003 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TURUNCU TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0708999998, 40.9937999992 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Göztepe Metro Durağı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1005999996, 40.9955000004 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ESMAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1423000001, 40.9956000004 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ADIGÜZEL SİTELER TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9155999997, 40.9956999996 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Balıklı Rum Hastane Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8649000006, 40.9960999993 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KADİR HAS ÇOCUK DÜNYASI TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8742000003, 40.9965999999 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BAKIRKÖY METRO DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1412000007, 40.9977 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ŞERİFALİ CAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0604999995, 40.9978999995 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Ünalan Metro Durağı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9371999996, 41.0022000001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Samatya SGK Hastane - 1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0186999993, 41.0024999991 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK BURHAN FELEK CAD. TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8738000005, 41.0035999995 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İstanbul EvleriTaksi 1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6864000001, 41.0040000003 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TORYUM AVM TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0347999999, 41.0047999992 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ALİ DEDE CAD.MEDİPOL HASTANESİ YANI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8804999995, 41.0057999993 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Çiçek Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9540000002, 41.0061000005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Yenikapı Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6262000003, 41.0062000006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YEŞİLKENT TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9499000006, 41.0081999991 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Aksaray Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7997000002, 41.0089999997 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Sefaköy Merkez Taksi - 2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9094000002, 41.0100999997 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MERKEZ EVLERİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8148999994, 41.0106000006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "STAR CİTY TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.106815912, 40.9583184541 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KAYA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0816627255, 40.985660529 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HİLTON TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.063025804, 40.9671353899 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "EVRENTUR"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0920073114, 40.9683184291 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ALP TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8914582071, 41.010951542 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HURRY IN TURİZM OTEL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0853713943, 41.0145137274 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÜSKÜDAR ÇAYIR TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0388895578, 41.0292085485 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BİRLİK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0344999995, 41.0768999996 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Maya Residans"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9787999998, 41.0779 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSTANBUL ADALET SARAYI TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0276, 41.0781999994 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AKATLAR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0087000005, 41.0782999995 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Kanyon Taksi - 1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0451999998, 41.0787000003 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Çınar Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0103000002, 41.0796000003 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "POLLCENTER TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0132999996, 41.0813999999 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇAMLIK CADDESİ İSPARK"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0147000004, 41.0832999997 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "UYGUN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0058000006, 41.0858999994 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KAĞITHANE EMNİYET TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9150000001, 41.0859999992 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MEVLANA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0066000005, 41.0867999998 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK 4. LEVENT METRO ÇIKIŞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0765000007, 41.0867999994 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BİZİM TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0136000004, 41.0891999997 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "2.ULUS MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0136000004, 41.0891999997 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Konak Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9934999995, 41.0995000004 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SEYRANTEPE EMNİYET TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8658999994, 41.1097 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CEBECİ MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0202999995, 41.1105000002 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HASTANE ACİL TAKSİ-1 (DOĞUŞ OTO)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0217000001, 41.1110999995 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MASHATTAN TAKSİ-1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0974000004, 41.1176999992 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK SAİP MOLLA CAD. TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0365000006, 41.1209999997 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KÜÇÜKEV TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0478000003, 41.1293999996 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ŞİRKET TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0388000002, 41.1377000008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ACIBADEM ÇAMLIK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8751999993, 41.1883000002 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Göktürk Merkez Taksi-3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9189111131, 41.0227228192 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KOÇ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9743808662, 41.0309707544 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Tepebaşı Taksi - 1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9742063759, 41.0312670034 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Pera Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0142030363, 41.0717712595 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ZİNCİRLİKUYU THE GREEN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9776413006, 41.0233069397 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Karaköy Yolcu Salonu Turizm Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.028425549, 41.0612611306 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "LİV TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8618278681, 41.0338890945 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÜVEN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8280282963, 41.0313980962 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÜNEŞLİ MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6265372393, 41.0178549243 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BEYKENT TAKSİ (2)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.091910025, 41.1339304705 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BEYKOZ UFUK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9401872, 41.0159063012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - FATİH VATAN MİGROS ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9413548005, 41.0575877006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "EYÜP DEVLET HASTANESİ-1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8174, 41.0320114011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "EVREN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8217192001, 41.006843101 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KÖKNAR TAKSİ DURAĞI(GÖZDE TAKSİ)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8219954001, 40.9588869008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TURİZM TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8315242002, 40.9920234013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AIRPORT TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8322179995, 40.9575958013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇINAR TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8352439, 40.959642101 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İNTERNATİONAL HOSPİTAL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8362634006, 40.9919595009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YENİBOSNA KAVŞAĞI YAN YOL BAKIRKÖY İSTİKAMETİ UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8372736996, 40.965082801 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YEŞİLYURT TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8391086005, 40.9889068007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ATAMERKEZ MERKEZ TAKSİ(BAKIRKÖY)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8423666995, 41.0591413007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MEGA TAKSI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8452534998, 41.0060022013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BAHÇELIEVLER DEVLET HASTANESI -1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8563729004, 41.0347442013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SANCAKTEPE EĞT UYG. OKULU YANI UATD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8581347004, 40.9789491007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ATAKÖY TURİZM TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8655157997, 41.0223340012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İLGİ / 24 TAKSİ DURAĞ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8673577994, 40.993236901 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BAKIRKÖY DEVLET HASTANESİ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8694019995, 41.0299119005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BAĞCILAR DEVLET HASTANESİ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8724357996, 40.9777902008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CAPACİTY TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8738314, 41.0034593012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSTANBUL EVLERİ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8747885002, 40.9783897011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - BAKIRKÖY İSTANBUL CADDESİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8752399994, 41.0482230012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ESENLER KAZIM KARABEKİR OTOBÜS DURAĞI MEVKİİ TAKSİ (ESENLER ÇEVRE TAKSİ)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8760129996, 41.0973015009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SEÇKİNLER TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8766196998, 40.973604201 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK BAKIRKÖY IDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8822019997, 40.9965783013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "OSMANİYE BAKIRKÖY ÖZEL TAKSİ DURAĞI(YAŞAR YILDIZ)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8854543995, 40.9989494006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MARMARA FORM TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8893081995, 41.0164881006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÜNGÖREN ÖZMEN TELSİZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8899653998, 41.0042764006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK GÜNGÖREN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8905330999, 41.0012046008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - ÇIRPICI METRO İSTASYONU UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8932699998, 41.0656390014 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YILDIRIM PARK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9984457998, 41.0609629013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FULYA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9991608006, 41.1152574011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AYAZAĞA GÜVEN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0041421997, 41.0627716007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CİHAN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0049862997, 41.0593412007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BEŞİKTAŞ SARAY TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0060958005, 41.0845545011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SAPPHİRETAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0063620995, 41.0531785007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MANOLYA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0066939995, 41.0715544012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FANTASTİC TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0068154, 41.0431480009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BARBOROS TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0073988994, 41.0413649005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - BEŞİKTAŞ İSKELE CFADDESİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0074343995, 41.0598510009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - BEŞİKTAŞ DARPHANE"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0076887999, 41.0413988008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK İSKELE"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0086193004, 41.0465313012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BEŞİKTAŞ CONRAD ÖNÜ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0090344004, 41.0852890011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇINAR SOKAK UMUMA AÇIK TAKSİ DURAK YERİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0100791995, 41.0898994006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YENI LEVENT OYAK TAKSI DURAĞı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0108703998, 41.0105055009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÜSKÜDAR HAREM İDO İSKELE ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0109992996, 41.0804377011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "POL TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0142327001, 41.0875542011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KÖŞK TAKSİ IHLAMUR"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0147111999, 41.0595364011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÖNER TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0152378005, 41.0757480006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK BEŞİKTAŞ LEVENT ÇARŞI CADDESİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0156767997, 41.0274718006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - ÜSKÜDAR İSKELE ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0160483998, 41.1108087009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AKASYA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0168621005, 41.0764862007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "LEVENT TAKSİ (BEŞİKTAŞ)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0182553996, 41.0644533013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "LEVAZIM SİTESİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0189222005, 41.0874120006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "3.LEVENT SEVGİ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0194902997, 40.9906913007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BALON TESİSİ YANI UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0196507998, 41.0848029008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BEŞİKTAŞ BASIN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0200128, 40.9964758012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HAYDARPAŞA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0212956006, 41.087939201 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MAYADROM TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0224898003, 40.9900427011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK RIHTIM 2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9847122995, 41.0357217008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - BEYOĞLU SIRASELVİLER CADDESİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9861697995, 41.0318105011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - BEYOĞLU CİHANGİR KATLI OTOPARK ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9867426001, 41.0362628009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK-BEYOĞLU"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9873669003, 41.0367813012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "METE CADDESİ UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9873691, 41.061333301 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK ŞİŞLİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9888746003, 41.0404525009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GRAND HAYATT TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9890214996, 41.0317366006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MECLİSİ MEBUSAN CADDESİ UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9920855004, 41.0335376012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KABATAŞ İDO İSKELESİ UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9926440005, 41.0430804011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK DOLMABAHÇE"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9932590999, 41.0347150009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK KABATAŞ İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9932791004, 41.0347495012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KABATAŞ İDO İSKELESİ 2 UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9945258998, 41.0479969013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK MAÇKA"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9952117997, 41.0991392007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SEYRANTEPE MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9958784005, 41.0627348013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AVRUPA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9958902998, 41.0652698005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - ŞİŞLİ MECİDİYEKÖY ORTAKLAR CADDESİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.2505784002, 41.0760811006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SİLİVRİ E 5 TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.2575799003, 41.0818699007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KONUT TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.3673712005, 41.055419501 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SELİMPAŞA MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.3675173002, 41.0564533008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SELİMPAŞA DURAK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.4181773995, 41.0519392005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CELALİYE MEYDAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.4370801003, 41.0373901011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SILIVRI MARIN PRENSES TAKSI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.5788681995, 41.0205140012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BÜYÜKÇEKMECE MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6004614004, 41.0109727011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ALBATROS TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6140681995, 40.9918140009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÜRPINAR MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6454582006, 41.0355366006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KIRAÇ MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2988791998, 40.8503847007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TUZLA İÇMELER MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3034823994, 40.8155049013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SAHİL TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3210715, 40.8280607011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TUZLA İSTASYON TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3317077996, 40.8715866007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AYDINLI KÖYÜ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3544946002, 40.8257605012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ŞİFA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8693102583, 41.0066370991 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Haznedar"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0261927001, 41.0504435009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÖZ ORTAKÖY TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0273322997, 40.9909455012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK SÖĞÜTLÜÇEŞME"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0282039001, 41.0730425006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇAVUŞOĞLU TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0290516995, 41.0714962005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "2.ULUS TURİZM TAKSİ DURAĞI(BEŞİKTAŞ TURİZM))"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0297883003, 41.1414722008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HACIOSMAN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0299938994, 41.0767929013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "UMUT TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0301321004, 41.1402377012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TARABYA BAYIRI UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0303341001, 41.0284353006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FISTIKAĞACI TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0304021994, 41.0647437013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÖZ ULUS TAKSİ II."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0304628003, 41.0659486012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "1. ULUS TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0305497999, 40.9898176005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KUŞDİLİ CADDESİ UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0315899998, 41.1225355013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SARIYER GAZETECİLER SİTESİ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0331104004, 41.0863630007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ALKENT TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0336020001, 41.0623515006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ULUS PARK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0347150998, 41.1246461008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MEGA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0367712999, 41.0120181005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KOŞU YOLU BARBOROS TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0376893004, 40.9918314009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK SÖĞÜTLÜ ÇEŞME METROBÜS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0379164997, 41.0822260007 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DOĞAN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2319999998, 40.8798999989 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GAR TAKSİ DURAĞI YENİ-2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0569000001, 41.0124999992 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ACIBADEM YILDIZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0570999995, 41.0152000004 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ACIBADEM UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6519999999, 41.0160000009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CUMHURİYET TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9711999992, 41.0175999996 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK Ragıp Gümüşpala Caddesi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9699999993, 41.0182000008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK - EMİNÖNÜ  PERONLAR UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6482999997, 41.0207000003 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BEYLİKDÜZÜ İSTANBUL EVLERİ SİTESİ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0363999991, 41.0231999998 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK NUH KUYUSU CAD.(ASLI BÖREK ÖNÜ)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6262000003, 41.0236000009 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KAYA RAMADA OTEL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1073000009, 41.0243999998 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK ALEMDAĞ ÜMRANİYE AVM ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8252999992, 41.0247000012 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Gardenya"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0866999995, 41.024900001 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK SU-İŞ CAD.TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9364, 41.0294000003 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HİLAL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8638000003, 41.0296000003 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÜNEŞTEPE TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9841999997, 41.0306000003 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CİHANGİR TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2274000006, 41.0319999999 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KARDİYUM TAŞDELEN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9872000007, 41.0332999995 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Akyol Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0296000004, 41.0363000002 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KUZGUNCUK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7822000006, 41.0388999989 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AÇELYA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9551999998, 41.0393000006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Aynalıkavak Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0070999996, 41.0428000002 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BEŞİKTAŞ BARBAROS BULVARI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7642999997, 41.0452999995 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MİSS TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9620440859, 41.0699858597 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "NİŞANTAŞI ÜNİVERSİTESİ SADABAD KAMPÜSÜ (HASBAHÇE PLUS) TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2054436437, 40.9174403464 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SOĞANLIK MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0160888132, 41.0445998995 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇIRAĞAN TAKSİ 2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9595123354, 41.0121696383 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ŞEHZADEBAŞI TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6683340286, 41.0554436677 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9981765769, 41.1023186779 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ASLANTEPE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1838115417, 40.8869582139 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KARTAL BİRLİK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0162727228, 41.0678280433 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ZORLU CENTER TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8290109443, 41.0631550083 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MEGA 2 (ADLİYE ESKİ ADI) TAKSİ BAĞCILAR"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0234183259, 40.9906408646 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KADIKÖY METRO TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0843400607, 40.970356205 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KAPTAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.5818745993, 41.0208756684 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GEÇİT TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1261771236, 41.0247099722 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MEYDAN İSTANBUL AVM TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0907300304, 41.0112618858 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YUNUS EMRE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3637389245, 40.8874567539 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSTANBUL DERİ ORGANİZE SANAYİİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9932254919, 41.0510873286 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CİTYS NİŞANTAŞI AVM TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.87329435, 41.1033569113 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SULTANGAZİ DEVLET HASTANESİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.246829582, 41.0742790844 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Merkez Taksi durağı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0337811872, 41.2194021924 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "USKUMRUKÖY DÖRTYOL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1419498605, 40.9781450117 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İNÖNÜ MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9939945809, 41.1096144347 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SEBA OFİS BULVAR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0269626168, 41.156547538 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KOZDERE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9860853717, 41.1069833858 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "VADİSTANBUL Avm içi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0446195736, 40.9759793048 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ORUÇLAR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9254189756, 41.019370092 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ERESİN OTEL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9573552756, 41.010217663 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CROWN PLAZA HOTEL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9229825032, 41.075664037 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "VIALAND AVM İÇİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6708416469, 41.0099800778 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HARAMİDERE GEÇİT TAKSİ 1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.864925131, 41.0693458446 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TEKSTİLKENT KOZA PLAZA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6746335542, 41.0608564222 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KOZA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1820748163, 41.0319773377 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "VİLLA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.4610715326, 41.1442035427 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ERGUVAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6287988899, 41.0863544301 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ALKENT TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0898740567, 41.0948379668 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇİÇEK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0253639733, 41.13032023 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DERBENT KÜLTÜR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0219147114, 41.0892614206 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SİTE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1344767177, 40.9374564931 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ALTAYÇEŞME TAKSİ-2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0987907007, 40.9667842765 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ŞEN TAKSİ-2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0738080758, 40.9771796945 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "STAR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3001866376, 40.8589447337 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "EVORA PARK SİTE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0589942507, 40.9852750457 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KARADENİZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9962492361, 41.1087588362 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "OYAK SİTESİ GÜL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1633152329, 40.9101178877 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SARAY TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9658697392, 41.0090127375 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BEYAZIT MEYDAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9751011571, 41.0573145697 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "QUEEN BOMONTİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7241598128, 40.9855296596 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MEYDAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1110840695, 40.9693761157 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İÇERENKÖY ANADOLU MERKEZ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9708620535, 41.0095121271 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇEMBERLİTAŞ MEYDAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0096195255, 41.0898217805 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YENİ LEVENT MERCAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9829990903, 41.0320377964 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TAKSİM İLK YARDIM HASTANE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8064547529, 41.0642221214 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MALL OF İSTANBUL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0659855429, 41.099449644 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KANLICA TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0184107075, 41.0607835826 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SAKLIKENT ORTAKÖY TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0377707966, 41.0751072332 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÖZ KÜLTÜR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0271326627, 41.0840158494 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KARANFİL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7200401479, 40.9778899351 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÜNER TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7076093788, 40.9924348999 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İNCİRALTI TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8178476272, 41.0194808323 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "STEIGENBERGER TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.250940798, 41.0809314176 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Öz Site 1 Taksi Durağı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.5568555676, 41.017206024 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BÜYÜKÇEKMECE HASTANE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.5397666, 41.008139445 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MİMARSİNAN BİRLİK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6580215189, 41.0282577035 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KARDEŞLER TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9438261692, 41.0217513525 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ROFO TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8770729645, 41.079082108 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "VENEZİA MEGA OUTLET TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7651775219, 41.0356335269 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇINAR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1289849847, 40.9338883914 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ADATEPE TELSİZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1199492141, 40.9522076005 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MALTEPE 2574 ADA 53 PARSEL ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1625369355, 40.918878613 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MALTEPE PARK AVM"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8156475734, 41.0301270895 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "METRO TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8188081192, 41.0158509772 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DOĞU SANAYİ TAKSİ-2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8158198597, 41.0030802813 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KUYUMCUKENT TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8483459757, 40.9796273905 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ATAKENT TAKSİ 1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8214625745, 40.957633838 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SİTE TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7765678914, 41.0654663006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AĞAOĞLU İSTANBUL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9553769405, 41.0114775551 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK gençtürk cad."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9434067614, 41.0090784137 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HASEKİ HASTANE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0428293482, 41.0028286265 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK ÜSKÜDAR ACIBADEM CADDESİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0763975741, 41.047529517 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK ÇENGELKÖY YOLU, BOSNA BULVARI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3177777686, 40.8683289739 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TUZLA AYDINLI SİTE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2994475734, 40.8458760564 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "EMNİYET TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9821250714, 41.0580532312 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ŞİŞLİ MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9994188965, 41.0562835864 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "POLAT TOWER RESİDENCE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0248858055, 41.1101541449 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MASLAK ÇARŞI TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2274014303, 40.9933714734 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HİZMET TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1931587049, 41.0060600451 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SANCAKTEPE HASTANE TAKSİ DURAĞI baraj yolu"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3072948054, 40.9276438829 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YENİŞEHİR MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1237934459, 40.949461249 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AYDINEVLER MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7734122309, 41.0248733761 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DİVAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1936720231, 40.9125413446 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SOĞANLIK METRO DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0380558801, 41.0010046245 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TİBAL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0314893234, 41.0015745879 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TEPE NAUTİLUS TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0852736891, 40.9882643059 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "OPTİMUM AVM ÖNÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0426949478, 40.9706615269 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "NUR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8764454624, 41.0572679757 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KIŞLA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9867284072, 41.1031249054 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SKYLAND TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8405262445, 41.0650331732 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BATIŞEHİR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2402626067, 41.0262683638 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TAŞDELEN METRO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8077952943, 41.0294564848 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ANTPLATO TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2655297923, 40.9695454968 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MERKEZ MEYDAN TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.923730756, 41.0865862843 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CENGİZTOPEL TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8705896235, 41.0886847927 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "26 TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1262837953, 40.9923932679 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "METROPOL AVM TAKSİ-2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6363951968, 41.0149136962 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YAŞAM TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1930124002, 40.9191692971 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MANOLYA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0635156934, 40.9938720927 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CONCORD TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9132962002, 41.0021790011 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÖZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9461736603, 41.0916521069 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "5.Levent Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9047261948, 41.0517965256 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DİNÇER TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.5420217446, 41.0019860547 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SİNANOBA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0013052608, 41.0678978662 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "OYA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0024427473, 41.0563142253 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DİKİLİTAŞ MERKEZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2609662844, 40.9685511574 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Fatih Bulvarı 7784 ada 6 parsel önü"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.5306506013, 41.0008921959 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BİZİM TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1137433973, 41.111374423 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "VADİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1731465968, 40.9177630077 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DURU TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8161739348, 41.0101818954 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSTWEST MEYDAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1906891429, 40.8896276438 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KARTAL STAD TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1482736961, 40.9588408273 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MARMARA EĞİTİM KÖYÜ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9922477161, 41.0537548226 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÖZ NİŞANTAŞI TAKSİ-2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0687409024, 41.0018486993 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÜNALAN 15 TEMMUZ ŞEHİTLER TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0128267302, 41.0190357081 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DOĞANCILAR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7186924367, 40.9914922623 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FİRUZE KONAKLARI TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3634763354, 40.8404449698 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MİMAR SİNAN KİPTAŞ-2 TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9801000001, 41.0362000004 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SAKIZAĞACI TAKSİ-1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0698999989, 40.9737000004 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SANTRAL TAKSİ DURAĞI-2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8818444393, 41.0807213301 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KARADENİZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9965394031, 41.0513048461 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TOPAĞACI TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2717409664, 40.9656373917 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSPARK Fatih Bulvarı 8223 ada 3 parsel önü"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0332755985, 41.0793782003 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ETİLER BİZİM TAKSİ (4)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6224992622, 41.0253396058 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "FUAR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9785855476, 41.0579145243 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SİLAHŞÖR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2056644493, 40.8843414912 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSTMARİN AVM TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7096986004, 40.9948878013 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AVCILAR HOSPİTAL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0491276735, 41.1872891267 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SARIYER SİTE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2587722285, 40.9821501082 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ADİL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9982067874, 41.04323529 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÖZ VALİDE ÇEŞME TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3890687517, 40.8848225251 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İAYO SANAYİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0189852812, 41.1123308502 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "YENİ MASLAK 42 TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9048403833, 41.0162106888 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BEYAZ REZİDANS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9810024478, 41.0583286164 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BOMONTİ HİLTON TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8909848855, 41.1828087911 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÖKTÜRK MERKEZ TAKSİ-4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6111802028, 40.9994552 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "AYAZMA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0525110228, 41.0185731908 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "MARMARA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8941749605, 40.992735799 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "THE İSTANBUL RESIDENCE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6747081672, 41.0772140997 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BAHÇEŞEHİR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9427632878, 41.0880744407 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ALİBEYKÖY CEP OTOGARI ÖNÜ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8979248847, 41.027814811 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "NAMIK KEMAL ÇİFTE HAVUZLAR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1416420401, 40.9898895896 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TRENDİST TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6253477634, 41.0139871641 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BEYLİKDÜZÜ HASTANE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9178000001, 41.0819000006 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "DORUK TAKSİ-1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0956824996, 41.0333461996 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "EXSEN ELMALIKENT TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7951339996, 41.0264739229 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Huzur Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7731709124, 41.0583829064 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BHT CLINIC TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1772815413, 41.0281222449 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇEKMEKÖY MERKEZ TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8992067905, 41.0035151148 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ZEYTİNBURNU DEMİRCİLER SİTE TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0750545334, 40.986424791 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "Merdivenköy Taksi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7791679323, 40.994304871 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "CENNET YILDIZ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0332249122, 41.1098669227 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "İSTİNYE PARK TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.06998464, 41.0688572615 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KANDİLLİ BOĞAZİÇİ TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0639595305, 41.0149137778 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "ÇAMLICA KULE"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8641849507, 41.0613094949 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "TURGUT REİS TAKSİ DURAĞI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2145737134, 40.9305826464 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SEKMEN TAKSİ-2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2693859528, 40.8916425491 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GÜLLÜBAĞLAR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9867115363, 41.0286654602 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GALATAPORT 2 TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2315197071, 40.8808196802 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "HİLAL TAKSİ-1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9853545963, 41.0499117889 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "PANGALTI MEYDAN TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9829494858, 41.0265810606 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "GALATAPORT 1 TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9090299405, 41.0445649776 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KİPTAŞ KONUTLARI TUNA TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8956660549, 41.0409284063 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "OTOGAR TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7982204461, 40.9644849322 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "EGM TAKSİ DURAĞI TAŞIMACILIK TURİZM LOJİSTİK LİMİTED ŞİRKETİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7144561885, 40.990623453 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "PELİKAN MALL TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0308591002, 40.989744101 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "KUŞDİLİ UMUMA AÇIK TAKSİ DURAK YERİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8025082004, 41.1129423008 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "BİZİM TAKSİ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0378340005, 40.992387601 ]
+			},
+			"properties" : {
+				"DURAK_ADI" : "SÖĞÜTLÜ ÇEŞME UMUMA AÇIK TAKSİ DURAĞI"
+			}
+		}
+	]
+}
